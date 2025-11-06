@@ -42,8 +42,8 @@ export default function AdminNav() {
     <header className="sticky top-0 z-40 bg-white/90 backdrop-blur border-b border-slate-200/60">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         <a href="/#/" className="flex items-center gap-3">
-          <img src="/logo.png" alt="KOMPESKA" className="h-14 w-auto" />
-          <span className="text-sm font-semibold text-slate-700 hidden sm:inline">Admin</span>
+          <img src="/logo.png" alt="KOMPESKA" className="h-10 sm:h-10 md:h-10 lg:h-15 w-auto" />
+          <span className="text-sm font-semibold text-slate-700">Admin</span>
         </a>
         <nav className="hidden md:flex items-center gap-2 text-sm">
           {link('/#/admin', 'Export/Import')}
