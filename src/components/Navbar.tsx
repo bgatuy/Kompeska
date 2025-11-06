@@ -6,7 +6,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-30 backdrop-blur supports-[backdrop-filter]:bg-white/60 border-b border-slate-200/50">
       <nav className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         <a href="#home" className="flex items-center gap-2">
-          <img src="/logo.png" alt="KOMPESKA" className="h-10 sm:h-10 md:h-10 lg:h-15 w-auto" />
+          <img src="/logo.png" alt="KOMPESKA" className="h-10 sm:h-10 md:h-10 lg:h-16 w-auto" />
         </a>
         <div className="hidden md:flex items-center gap-6 text-sm">
           <a href="#visi-misi" className="hover:opacity-80">Visi & Misi</a>
