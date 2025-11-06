@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "org": "KOMPESKA",
+    "periode": "2025\u20132027",
+    "lastUpdated": "2025-11-01"
+  },
+  "visi": [
+    "Menjadi paguyuban yang solid, peduli, dan bermanfaat bagi anggota."
+  ],
+  "misi": [
+    "Memperkuat kebersamaan melalui program sosial.",
+    "Mengelola dana secara transparan dan akuntabel.",
+    "Mendukung anggota dalam pendidikan dan kegiatan kemasyarakatan."
+  ],
+  "program": [
+    {
+      "judul": "Dana Duka",
+      "deskripsi": "Santunan bagi anggota/keluarga saat berduka."
+    },
+    
+    {
+      "judul": "Bakti Sosial",
+      "deskripsi": "Kegiatan sosial periodik untuk lingkungan."
+    },
+    {
+      "judul": "Tanggap Bencana",
+      "deskripsi": "Galang dana & bantuan darurat bagi terdampak."
+    }
+  ],
+  "struktur": [
+    {
+      "jabatan": "Ketua",
+      "nama": "Nama Ketua",
+      "foto": "/struktur/ketua.jpg"
+    },
+    {
+      "jabatan": "Wakil Ketua",
+      "nama": "Nama Wakil",
+      "foto": "/struktur/wakilketua.jpg"
+    },
+    {
+      "jabatan": "Sekretaris",
+      "nama": "Nama Sekretaris",
+      "foto": "/struktur/sekretaris.jpg"
+    },
+    {
+      "jabatan": "Bendahara",
+      "nama": "Nama Bendahara",
+      "foto": "/struktur/bendahara.jpg"
+    }
+  ],
+  "kegiatan": [
+    {
+      "title": "Bakti Sosial Kampung Hijau",
+      "date": "2025-10-12",
+      "desc": "Kerja bakti & pembagian paket sembako.",
+      "images": []
+    },
+    {
+      "title": "Donor Darah Bersama",
+      "date": "2025-08-28",
+      "desc": "Kolaborasi PMI setempat.",
+      "images": []
+    }
+  ],
+  "transaksi": [
+    {
+      "tanggal": "2025-10-01",
+      "tipe": "IN",
+      "jumlah": 2000000,
+      "sumber": "Iuran",
+      "catatan": "40 anggota"
+    },
+    {
+      "tanggal": "2025-10-05",
+      "tipe": "OUT",
+      "jumlah": 350000,
+      "sumber": "Operasional",
+      "catatan": "Sewa aula"
+    },
+    {
+      "tanggal": "2025-11-01",
+      "tipe": "IN",
+      "jumlah": 2100000,
+      "sumber": "Iuran",
+      "catatan": "42 anggota"
+    },
+    {
+      "tanggal": "2025-11-03",
+      "tipe": "OUT",
+      "jumlah": 250000,
+      "sumber": "Operasional",
+      "catatan": "ATK & konsumsi"
+    }
+  ]
+}
