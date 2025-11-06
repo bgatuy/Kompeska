@@ -4,3 +4,10 @@
 
 :root { color-scheme: light; }
 .dark { color-scheme: dark; }
+
+/* Slightly reduce overall scale on mobile for a tighter UI */
+@layer base {
+  @media (max-width: 640px) {
+    html { font-size: 15px; }
+  }
+}
